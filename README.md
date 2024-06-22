@@ -22,10 +22,10 @@ The 13 parameters which are given in the datset used to predict if a person has 
 The last column in the dataset "target" represents if a person has hear disease or not (1 = Heart disease, 0 = No Heart disease).<br><br>
 After training and testing the dataset with KNN, Logistic Regression and Linear Regression and Naive Bayes and comparing their accuracies, chose to use Logistic Regression for implentation.<br><br>
 
-<br><br><br>
+
 
 How to RUN the Project:
 - Install necessary packages such as Pandas, Numpy etc.
 - Then type in the command
 ``` python app.py ```
-<br><br><br><br>
+
