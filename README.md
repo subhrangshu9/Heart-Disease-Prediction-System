@@ -27,5 +27,5 @@ After training and testing the dataset with KNN, Logistic Regression and Linear 
 How to RUN the Project:
 - Install necessary packages such as Pandas, Numpy etc.
 - Then type in the command
-``` python app.py ```
+``` python main.py ```
 
